@@ -1,0 +1,283 @@
+{
+  "works": [
+    {
+      "id": 20,
+      "title": "Johann Sebastian Jazz",
+      "description": "",
+      "typeIdList": [
+        1,
+        2
+      ],
+      "imagePath": "http://localhost:3001/assets/images/joahhn.png",
+      "album": [
+        "http://localhost:3001/assets/images/joahhn.png",
+        "http://localhost:3001/assets/images/vgtu.jpeg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Look for VGTU Book!",
+      "description": "Posters for Vilniaus Gedimino technikos universitetas (VGTU) Press, Vilnius Lithuânia.",
+      "typeIdList": [
+        1,
+        3,
+        4
+      ],
+      "imagePath": "http://localhost:3001/assets/images/vgtu.jpeg",
+      "album": [
+        "http://localhost:3001/assets/images/vgtu_album/vgtu1.jpg",
+        "http://localhost:3001/assets/images/vgtu_album/vgtu2.jpg",
+        "http://localhost:3001/assets/images/vgtu_album/vgtu3.jpg",
+        "http://localhost:3001/assets/images/vgtu_album/vgtu4.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Él que Mira",
+      "description": "",
+      "typeIdList": [
+        1,
+        5,
+        6
+      ],
+      "imagePath": "http://localhost:3001/assets/images/elquemira.jpg",
+      "album": []
+    },
+    {
+      "id": 17,
+      "title": "Noche",
+      "description": "",
+      "typeIdList": [
+        7,
+        1,
+        4
+      ],
+      "imagePath": "http://localhost:3001/assets/images/noche.jpg",
+      "album": []
+    },
+    {
+      "id": 16,
+      "title": "This Filme is About Me",
+      "description": "",
+      "typeIdList": [
+        6,
+        1,
+        8
+      ],
+      "imagePath": "http://localhost:3001/assets/images/thisfilm.jpg",
+      "album": []
+    },
+    {
+      "id": 15,
+      "title": "Ugne & Poliana",
+      "description": "",
+      "typeIdList": [
+        1,
+        2
+      ],
+      "imagePath": "http://localhost:3001/assets/images/poliugne2.png",
+      "album": []
+    },
+    {
+      "id": 14,
+      "title": "Psiu!",
+      "description": "",
+      "typeIdList": [
+        6,
+        1
+      ],
+      "imagePath": "http://localhost:3001/assets/images/psiu.jpg",
+      "album": []
+    },
+    {
+      "id": 13,
+      "title": "IEL Unicamp",
+      "description": "",
+      "typeIdList": [
+        9
+      ],
+      "imagePath": "http://localhost:3001/assets/images/iel.jpg",
+      "album": []
+    },
+    {
+      "id": 12,
+      "title": "SESC Campinas",
+      "description": "",
+      "typeIdList": [
+        6,
+        1,
+        8
+      ],
+      "imagePath": "http://localhost:3001/assets/images/sesc.jpg",
+      "album": []
+    },
+    {
+      "id": 10,
+      "title": "Quitanda",
+      "description": "",
+      "typeIdList": [
+        1,
+        11
+      ],
+      "imagePath": "http://localhost:3001/assets/images/quitanda.jpg",
+      "album": []
+    },
+    {
+      "id": 9,
+      "title": "NanoTrupe",
+      "description": "",
+      "typeIdList": [
+        12,
+        6
+      ],
+      "imagePath": "http://localhost:3001/assets/images/nanoespetaculo.jpg",
+      "album": []
+    },
+    {
+      "id": 8,
+      "title": "Mostra Luta",
+      "description": "",
+      "typeIdList": [
+        9,
+        1
+      ],
+      "imagePath": "http://localhost:3001/assets/images/mostraluta.jpg",
+      "album": []
+    },
+    {
+      "id": 7,
+      "title": "Atávico",
+      "description": "",
+      "typeIdList": [
+        6,
+        1,
+        8
+      ],
+      "imagePath": "http://localhost:3001/assets/images/atavico.jpg",
+      "album": []
+    },
+    {
+      "id": 6,
+      "title": "Experimental Women",
+      "description": "",
+      "typeIdList": [
+        6,
+        4
+      ],
+      "imagePath": "http://localhost:3001/assets/images/mujer.jpg",
+      "album": []
+    },
+    {
+      "id": 5,
+      "title": "Es como ver nubes",
+      "description": "",
+      "typeIdList": [
+        6,
+        1,
+        4
+      ],
+      "imagePath": "http://localhost:3001/assets/images/escomo.jpg",
+      "album": []
+    },
+    {
+      "id": 4,
+      "title": "Navegando Publicações",
+      "description": "",
+      "typeIdList": [
+        9,
+        2
+      ],
+      "imagePath": "http://localhost:3001/assets/images/navegando.jpg",
+      "album": []
+    },
+    {
+      "id": 3,
+      "title": "Empírica",
+      "description": "",
+      "typeIdList": [
+        6,
+        4
+      ],
+      "imagePath": "http://localhost:3001/assets/images/empirica.jpg",
+      "album": []
+    },
+    {
+      "id": 2,
+      "title": "Palo en la Rueda",
+      "description": "",
+      "typeIdList": [
+        1,
+        4
+      ],
+      "imagePath": "http://localhost:3001/assets/images/paloenlarueda.jpg",
+      "album": []
+    },
+    {
+      "id": 1,
+      "title": "Gestão Pública e Sociedade",
+      "description": "",
+      "typeIdList": [
+        1,
+        6
+      ],
+      "imagePath": {
+        "rawFile": {
+          "preview": "blob:http://localhost:3002/7f479452-8a7b-4ad1-aa34-25402df4018a"
+        },
+        "imagePath": "blob:http://localhost:3002/7f479452-8a7b-4ad1-aa34-25402df4018a",
+        "title": "23961096_10156989759374012_2139496313_o.jpg"
+      },
+      "album": []
+    }
+  ],
+  "type": [
+    {
+      "id": 1,
+      "title": "Graphic Design"
+    },
+    {
+      "id": 2,
+      "title": "Web Design"
+    },
+    {
+      "id": 3,
+      "title": "Art Direction"
+    },
+    {
+      "id": 4,
+      "title": "Illustration"
+    },
+    {
+      "id": 5,
+      "title": "Interaction Design"
+    },
+    {
+      "id": 6,
+      "title": "Editorial Design"
+    },
+    {
+      "id": 7,
+      "title": "Drawing"
+    },
+    {
+      "id": 8,
+      "title": "Print Design"
+    },
+    {
+      "id": 9,
+      "title": "Branding"
+    },
+    {
+      "id": 10,
+      "title": "Typography"
+    },
+    {
+      "id": 11,
+      "title": "Photography"
+    },
+    {
+      "id": 12,
+      "title": "Digital Art"
+    }
+  ]
+}
